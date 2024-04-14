@@ -14,9 +14,9 @@ int main(){
 
 void zon(int i){
 	if(i != 0){
-		printf("%i n„o È igual a zero.", i);
+		printf("%i n√£o √© igual a zero.", i);
 	}
 	else{
-	("0 È igual a zero.");
+	("0 √© igual a zero.");
 	}
 }
