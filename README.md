@@ -1,1 +1,1 @@
-Códigos que fazem uso de funções para realizar ações. 
+Códigos que utilizam funções para realizar ações. 
